@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=OmJ-4B-mS-Y&t=391s&ab_channel=DomainofScience
 
 ### Articles
 https://medium.com/math-simplified/self-studying-mathematics-abd99ff1f6bf
+
+# Expansive Resources
+This collection was inspired by this collection of works compiled here:
+https://github.com/sindresorhus/awesome
