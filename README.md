@@ -9,8 +9,12 @@ I believe there are three main topics that make a great data scientist: Programm
 ## Programming
 The first thing that comes to most minds when data science is mentioned is coding. Below is a list of resources that I use and have seen voiced in the community.
 
-## Websites
+### Websites
 https://www.geeksforgeeks.org/
+
+### Books
+http://rafalab.dfci.harvard.edu/dsbook/
+This is one of the first books you should read to get into data science. It covers the basics of R and dives into how to use it in terms of data science. Plus it is free!
 
 ## Mathematics
 While you can do a fair bit of data science and analysis without math, you will ultimately come to a point where you find it important to have a strong grasp on some critical areas of math. Among these areas are algebra, calculus, probability, and statistics. Besides that, it can only be more helpful to pursue other aspects of math to further your analytical mind. Below are some resources including books, videos, and articles to help you.
