@@ -31,6 +31,13 @@ https://www.youtube.com/watch?v=OmJ-4B-mS-Y&t=391s&ab_channel=DomainofScience
 ### Articles
 https://medium.com/math-simplified/self-studying-mathematics-abd99ff1f6bf
 
+## Domain Knowledge
+Among the three categories, domain knowledge is the most wide-ranging. It encompasses not only expertise in your specific field but also understanding the broader domain of data science itself. Essentially, domain knowledge refers to your understanding of a particular industry or discipline. It's important to note that even programming and mathematics can be considered as forms of domain knowledge, as they are foundational skills required regardless of your specialization. Below, I'll provide a list of resources to help enhance your domain knowledge, covering both general and domain-specific areas.
+
+## Websites
+https://towardsdatascience.com/what-is-feature-engineering-importance-tools-and-techniques-for-machine-learning-2080b0269f10
+https://corporatefinanceinstitute.com/resources/data-science/domain-knowledge-data-science/
+
 # Expansive Resources
 This collection was inspired by this collection of works compiled here:
 https://github.com/sindresorhus/awesome
