@@ -7,9 +7,11 @@ An expansive collection of free Data Science Resources.
 I believe there are three main topics that make a great data scientist: Programming, Mathematics/Statistics, and Domain Knowledge.
 
 ## Programming
-The first thing that comes to most minds when data science is mentioned is coding. Below is a list of resources that I use and have seen voiced in the community.
+The first thing that comes to most minds when data science is mentioned is coding. Below is a list of resources that I use and have seen voiced in the community. Personally I have used freecodecamp and datacamp the most for my personal development.
 
 ### Websites
+https://www.freecodecamp.org/
+https://www.datacamp.com/
 https://www.geeksforgeeks.org/
 
 ### Books
